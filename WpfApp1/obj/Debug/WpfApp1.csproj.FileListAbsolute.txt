@@ -1,0 +1,70 @@
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\Dashboard.g.cs
+C:\Users\hp\Desktop\WpfApp1\WpfApp1\obj\Debug\Dashboard.baml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\Dashboard.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\App.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\Dashboard.baml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\MenuForm.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\MenuForm.baml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\mainwindow.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1 - Copie\WpfApp1\obj\Debug\mainwindow.baml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\Dashboard.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\mainwindow.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\MenuForm.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\Dashboard.baml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\mainwindow.baml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\MenuForm.baml
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\abDe.Mai\Desktop\PFE\Nouveau dossier\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
